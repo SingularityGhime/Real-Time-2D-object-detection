@@ -1,0 +1,11 @@
+﻿  Source1.cpp
+C:\Utkarsh\New folder\assignment3\assignment3\Header.h(118,34): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=short
+          ]
+C:\Utkarsh\New folder\assignment3\assignment3\Header.h(216,58): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Utkarsh\New folder\assignment3\assignment3\Source1.cpp(394,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Utkarsh\New folder\assignment3\assignment3\Source1.cpp(414,24): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Utkarsh\New folder\assignment3\assignment3\Source1.cpp(418,26): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  assignment3.vcxproj -> C:\Utkarsh\New folder\assignment3\x64\Debug\assignment3.exe
